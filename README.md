@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/jiho4774/jiho4/_apis/build/status/jiho4.actiondemos-calculator?branchName=master)](https://dev.azure.com/jiho4774/jiho4/_build/latest?definitionId=5&branchName=master)  
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
